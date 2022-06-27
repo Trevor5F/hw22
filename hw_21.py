@@ -218,7 +218,7 @@ if __name__ == '__main__':
         'печеньки': 38,
     }
 
-    store_items = store_items
+    store.items = store_items
 
     main()
 
